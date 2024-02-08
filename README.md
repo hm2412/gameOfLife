@@ -1,2 +1,1 @@
-# gameOfLife
-PPA Coursework
+# Game of Life PPA Coursework
